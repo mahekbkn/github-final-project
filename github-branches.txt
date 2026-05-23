@@ -1,4 +1,4 @@
-git branch
+@mahekbkn ➜ /workspaces/github-final-project/github-final-project (main) $ git branch
 
   bug-fix-revert
   bug-fix-typo
