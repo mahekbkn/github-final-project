@@ -1,0 +1,9 @@
+
+@mahekbkn ➜ /workspaces/github-final-project/github-final-project (bug-fix-typo) $ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+@mahekbkn ➜ /workspaces/github-final-project/github-final-project (main) $ git merge bug-fix-typo
+Updating a8a6acc..9f9bb9f
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)

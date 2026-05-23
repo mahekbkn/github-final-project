@@ -7,3 +7,4 @@ The calculator computes simple interest based on:
 - Rate of interest
 - Time period
 This project is created for Coursera GitHub Final Project.
+
